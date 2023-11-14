@@ -1,0 +1,15 @@
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\bin\Debug\net6.0\FacadeEjemplo.exe
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\bin\Debug\net6.0\FacadeEjemplo.deps.json
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\bin\Debug\net6.0\FacadeEjemplo.runtimeconfig.json
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\bin\Debug\net6.0\FacadeEjemplo.dll
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\bin\Debug\net6.0\FacadeEjemplo.pdb
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.csproj.AssemblyReference.cache
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.AssemblyInfoInputs.cache
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.AssemblyInfo.cs
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.dll
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\refint\FacadeEjemplo.dll
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.pdb
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\FacadeEjemplo.genruntimeconfig.cache
+C:\Users\anemone\source\repos\FacadeEjemplo\FacadeEjemplo\obj\Debug\net6.0\ref\FacadeEjemplo.dll
